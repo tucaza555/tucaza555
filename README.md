@@ -13,12 +13,12 @@
  
 <!--Youtube Link-->
 <a href="https://github.com/tucaza555" target="_blank">
-<img src=https://img.shields.io/badge/-Youtube-FF0000?logo=YouTube&logoColor=white&style=flat-square alt=Youtube style="margin-bottom: 5px; height: 30px;" />
+<img src=https://img.shields.io/badge/-Youtube-FF0000?logo=YouTube&logoColor=white&style=for-the-badge alt=Youtube style="margin-bottom: 5px; height: 30px;" />
 </a>
   
 <!--Instagram Link-->
 <a href="https://github.com/tucaza555" target="_blank">
-<img src=https://img.shields.io/badge/-instagram-E4405F?logo=instagram&logoColor=white&style=flat-square alt=Instagram style="margin-bottom: 5px; height: 30px;" />
+<img src=https://img.shields.io/badge/-instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge alt=Instagram style="margin-bottom: 5px; height: 30px;" />
 </a>
 
 <br />
