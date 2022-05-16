@@ -30,7 +30,7 @@ Hi, my name is Zac Tucak
   
 - 💼 For any queries, feel free to [EMAIL](mailto:tucaza555@gmail.com) me.
 - 💬 Ask me anything. I am happy to answer any questions you might have.
-- ☕ Feel free to check out my profile and buy me a coffee [HERE](buymeacoffee.com/?via=Tucaza).
+- ☕ Feel free to check out my profile and buy me a coffee [HERE](https://www.buymeacoffee.com/Tucaza).
 
   
 <!--Languages and tools-->
