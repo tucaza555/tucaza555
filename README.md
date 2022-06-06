@@ -7,17 +7,17 @@
 </a>
   
 <!--Twitter Link--> 
-<a href="https://github.com/tucaza555" target="_blank">
+<a href="https://twitter.com/Zacky__boy555" target="_blank">
 <img src=https://img.shields.io/badge/-Twitter-00acee?logo=twitter&logoColor=white&style=for-the-badge alt=Twitter style="margin-bottom: 5px; height: 30px;" />
 </a>
  
 <!--Youtube Link-->
-<a href="https://github.com/tucaza555" target="_blank">
+<a href="https://www.youtube.com/channel/UCVl7jOlHyYuySGrSumGMGjQ" target="_blank">
 <img src=https://img.shields.io/badge/-Youtube-FF0000?logo=YouTube&logoColor=white&style=for-the-badge alt=Youtube style="margin-bottom: 5px; height: 30px;" />
 </a>
   
 <!--Instagram Link-->
-<a href="https://github.com/tucaza555" target="_blank">
+<a href="https://www.instagram.com/zac.tucak/?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/-instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge alt=Instagram style="margin-bottom: 5px; height: 30px;" />
 </a>
 
