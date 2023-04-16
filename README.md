@@ -7,14 +7,18 @@
 </a>
   
 <!--Twitter Link--> 
+<!-- 
 <a href="https://twitter.com/Zacky__boy555" target="_blank">
 <img src=https://img.shields.io/badge/-Twitter-00acee?logo=twitter&logoColor=white&style=for-the-badge alt=Twitter style="margin-bottom: 5px; height: 30px;" />
-</a>
+</a> 
+-->
  
 <!--Youtube Link-->
+<!-- 
 <a href="https://www.youtube.com/channel/UCVl7jOlHyYuySGrSumGMGjQ" target="_blank">
 <img src=https://img.shields.io/badge/-Youtube-FF0000?logo=YouTube&logoColor=white&style=for-the-badge alt=Youtube style="margin-bottom: 5px; height: 30px;" />
 </a>
+-->
   
 <!--Instagram Link-->
 <a href="https://www.instagram.com/zac.tucak/?hl=en" target="_blank">
@@ -30,7 +34,7 @@ Hi, my name is Zac Tucak
   
 - 💼 For any queries, feel free to [EMAIL](mailto:tucaza555@gmail.com) me.
 - 💬 Ask me anything. I am happy to answer any questions you might have.
-- ☕ Feel free to check out my profile and buy me a coffee [HERE](https://www.buymeacoffee.com/Tucaza).
+- ☕ Feel free to check out my profile and support me [HERE](https://www.buymeacoffee.com/Tucaza).
 
   
 <!--Languages and tools-->
